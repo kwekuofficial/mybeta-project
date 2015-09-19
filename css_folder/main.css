@@ -5,3 +5,10 @@ h1 {
 h2 {
   border-bottom: 3px solid red;
 }
+
+img {
+  border-style: 3px solid red;
+  border-bottom: 3px solid red;
+  border-top: 3px solid red;
+  align: center;
+}
